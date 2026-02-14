@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vladroot
-- 👀 I’m interested in Unity/C#, C and Python.
-- 🌱 I’m currently learning Unity DOTS
+- 👀 I’m interested in Unity/C#, C and Python and embedded programming.
 - 💞️ I’m looking to collaborate on Unity ECS
 - 📫 How to reach me https://t.me/vladimir_kornev
 
